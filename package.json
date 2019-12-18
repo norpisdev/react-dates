@@ -49,9 +49,9 @@
   "homepage": "https://github.com/airbnb/react-dates#readme",
   "devDependencies": {
     "@kadira/react-storybook-addon-info": "^3.3.0",
-    "@kadira/storybook": "^2.35.3",
-    "@kadira/storybook-addon-options": "^1.0.2",
-    "airbnb-js-shims": "^1.0.1",
+    "@kadira/storybook": "2.35.3",
+    "@kadira/storybook-addon-options": "1.0.2",
+    "airbnb-js-shims": "1.0.1",
     "babel-cli": "^6.22.2",
     "babel-core": "^6.22.1",
     "babel-loader": "^6.4.1",
@@ -65,7 +65,7 @@
     "enzyme": "^2.8.1",
     "eslint": "^3.17.1",
     "eslint-config-airbnb": "^14.1.0",
-    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-import": "2.2.0",
     "eslint-plugin-jsx-a11y": "^4.0.0",
     "eslint-plugin-react": "^6.10.3",
     "git-directory-deploy": "^1.5.1",
@@ -100,7 +100,7 @@
     "webpack": "^1.14.0"
   },
   "dependencies": {
-    "airbnb-prop-types": "^2.4.1",
+    "airbnb-prop-types": "2.4.1",
     "array-includes": "^3.0.2",
     "classnames": "^2.2.5",
     "consolidated-events": "^1.0.1",
